@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 110" width="120" height="110">
+  <!-- Orange circle (top center) -->
+  <circle cx="60" cy="36" r="34" fill="#F47920"/>
+  <circle cx="60" cy="36" r="20" fill="white"/>
+  <circle cx="60" cy="36" r="8"  fill="#F47920"/>
+
+  <!-- Blue circle (bottom left) -->
+  <circle cx="34" cy="76" r="34" fill="#3AABDB"/>
+  <circle cx="34" cy="76" r="20" fill="white"/>
+  <circle cx="34" cy="76" r="8"  fill="#3AABDB"/>
+
+  <!-- Green circle (bottom right) -->
+  <circle cx="86" cy="76" r="34" fill="#8DB83B"/>
+  <circle cx="86" cy="76" r="20" fill="white"/>
+  <circle cx="86" cy="76" r="8"  fill="#8DB83B"/>
+</svg>
