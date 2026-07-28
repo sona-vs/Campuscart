@@ -70,19 +70,23 @@ In addition to marketplace functionality, the application also includes a **Lost
 # 🛠️ Tech Stack
 
 ## Frontend
+
 - Angular
 - TypeScript
 - HTML5
 - CSS3
 
 ## Backend
+
 - Node.js
 - Express.js
 
 ## Database
+
 - Supabase
 
 ## Tools
+
 - Git
 - GitHub
 - Netlify
@@ -95,67 +99,40 @@ In addition to marketplace functionality, the application also includes a **Lost
 ```text
 CampusCart
 │
-├── project/
-│   ├── src/
-│   ├── screenshots/
-│   ├── supabase/
-│   ├── api-server.js
-│   └── package.json
-│
+├── src/
+├── screenshots/
+├── supabase/
+├── api-server.js
+├── package.json
 └── README.md
 ```
 
----
 
-# 📸 Application Screenshots
+## 📸 Application Screenshots
 
-## Dashboard
+### Dashboard
+![Dashboard](project/screenshots/dashboard.png)
 
-![Dashboard](./project/screenshots/dashboard.png)
+### Login
+![Login](project/screenshots/login.png)
 
----
+### My Listings
+![My Listings](project/screenshots/my-listings.png)
 
-## Login
+### Lost & Found
+![Lost & Found](project/screenshots/lost-found.png)
 
-![Login](./project/screenshots/login.png)
+### Notifications
+![Notifications](project/screenshots/notifications.png)
 
----
+### Profile
+![Profile](project/screenshots/profile.png)
 
-## My Listings
+### Buy Session
+![Buy Session](project/screenshots/buy-session.png)
 
-![My Listings](./project/screenshots/my-listings.png)
-
----
-
-## Lost & Found
-
-![Lost & Found](./project/screenshots/lost-found.png)
-
----
-
-## Notifications
-
-![Notifications](./project/screenshots/notifications.png)
-
----
-
-## Profile
-
-![Profile](./project/screenshots/profile.png)
-
----
-
-## Buy Session
-
-![Buy Session](./project/screenshots/buy-session.png)
-
----
-
-## Sell Section
-
-![Sell Section](./project/screenshots/sell-section.png)
-
----
+### Sell Section
+![Sell Section](project/screenshots/sell-section.png)
 
 # ⚙️ Installation
 
@@ -168,7 +145,7 @@ git clone https://github.com/sona-vs/Campuscart.git
 ## Navigate to the project
 
 ```bash
-cd project
+cd Campuscart
 ```
 
 ## Install dependencies
@@ -218,6 +195,5 @@ Through this project, I gained experience in:
 # 👨‍💻 Developer
 
 **Sona V S**
-
-B.Sc. Data Science
+---
 
