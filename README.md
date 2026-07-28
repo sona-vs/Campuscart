@@ -109,49 +109,21 @@ CampusCart
 
 ---
 
-# 📸 Application Screenshots
+![Dashboard](screenshots/dashboard.png)
 
-## Dashboard
+![Login](screenshots/login.png)
 
-![Dashboard](./screenshots/dashboard.png)
+![My Listings](screenshots/my-listings.png)
 
----
+![Lost & Found](screenshots/lost-found.png)
 
-## Login
+![Notifications](screenshots/notifications.png)
 
-![Login](./screenshots/login.png)
+![Profile](screenshots/profile.png)
 
----
+![Buy Session](screenshots/buy-session.png)
 
-## My Listings
-
-![My Listings](./screenshots/my-listings.png)
-
----
-
-## Sell Section
-
-![Sell Section](./screenshots/sell-section.png)
-
----
-
-## Lost & Found
-
-![Lost & Found](./screenshots/lost-found.png)
-
----
-
-## Notifications
-
-![Notifications](./screenshots/notifications.png)
-
----
-
-## User Profile
-
-![Profile](./screenshots/profile.png)
-
----
+![Sell Section](screenshots/sell-section.png)
 
 # ⚙️ Installation
 
