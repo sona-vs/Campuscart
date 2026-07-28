@@ -3,7 +3,7 @@
 > A full-stack campus marketplace platform that enables students to buy, sell, and discover products within their college community.
 
 <p align="center">
-  <img src="./screenshots/dashboard.png" alt="CampusCart Dashboard" width="900"/>
+  <img src="./project/screenshots/dashboard.png" alt="CampusCart Dashboard" width="900"/>
 </p>
 
 ---
@@ -70,23 +70,19 @@ In addition to marketplace functionality, the application also includes a **Lost
 # 🛠️ Tech Stack
 
 ## Frontend
-
 - Angular
 - TypeScript
 - HTML5
 - CSS3
 
 ## Backend
-
 - Node.js
 - Express.js
 
 ## Database
-
 - Supabase
 
 ## Tools
-
 - Git
 - GitHub
 - Netlify
@@ -99,40 +95,67 @@ In addition to marketplace functionality, the application also includes a **Lost
 ```text
 CampusCart
 │
-├── src/
-├── screenshots/
-├── supabase/
-├── api-server.js
-├── package.json
+├── project/
+│   ├── src/
+│   ├── screenshots/
+│   ├── supabase/
+│   ├── api-server.js
+│   └── package.json
+│
 └── README.md
 ```
 
+---
 
-## 📸 Application Screenshots
+# 📸 Application Screenshots
 
-### Dashboard
-![Dashboard](screenshots/dashboard.png)
+## Dashboard
 
-### Login
-![Login](screenshots/login.png)
+![Dashboard](./project/screenshots/dashboard.png)
 
-### My Listings
-![My Listings](screenshots/my-listings.png)
+---
 
-### Lost & Found
-![Lost & Found](screenshots/lost-found.png)
+## Login
 
-### Notifications
-![Notifications](screenshots/notifications.png)
+![Login](./project/screenshots/login.png)
 
-### Profile
-![Profile](screenshots/profile.png)
+---
 
-### Buy Session
-![Buy Session](screenshots/buy-session.png)
+## My Listings
 
-### Sell Section
-![Sell Section](screenshots/sell-section.png)
+![My Listings](./project/screenshots/my-listings.png)
+
+---
+
+## Lost & Found
+
+![Lost & Found](./project/screenshots/lost-found.png)
+
+---
+
+## Notifications
+
+![Notifications](./project/screenshots/notifications.png)
+
+---
+
+## Profile
+
+![Profile](./project/screenshots/profile.png)
+
+---
+
+## Buy Session
+
+![Buy Session](./project/screenshots/buy-session.png)
+
+---
+
+## Sell Section
+
+![Sell Section](./project/screenshots/sell-section.png)
+
+---
 
 # ⚙️ Installation
 
@@ -145,7 +168,7 @@ git clone https://github.com/sona-vs/Campuscart.git
 ## Navigate to the project
 
 ```bash
-cd Campuscart
+cd project
 ```
 
 ## Install dependencies
@@ -195,5 +218,6 @@ Through this project, I gained experience in:
 # 👨‍💻 Developer
 
 **Sona V S**
----
+
+B.Sc. Data Science
 
