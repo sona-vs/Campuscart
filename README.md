@@ -214,11 +214,5 @@ Through this project, I gained experience in:
 # 👨‍💻 Developer
 
 **Sona V S**
-
-B.Sc. Data Science
-
-GitHub: https://github.com/sona-vs
-
 ---
 
-⭐ If you found this project interesting, consider giving it a star.
