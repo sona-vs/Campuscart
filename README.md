@@ -16,6 +16,14 @@ In addition to marketplace functionality, the application also includes a **Lost
 
 ---
 
+## 🚀 Live Demo
+
+🌐 https://jocular-mermaid-271f9f.netlify.app
+
+## 🔗 Repository
+
+https://github.com/sona-vs/Campuscart
+
 ## ✨ Features
 
 ### 👤 User Management
@@ -56,13 +64,13 @@ In addition to marketplace functionality, the application also includes a **Lost
                   ▼
         Angular Frontend
                   │
-          HTTP / REST APIs
+             REST APIs
                   │
                   ▼
-        Node.js API Server
+      Node.js / Express Backend
                   │
                   ▼
-        Supabase Database
+       Local JSON Database (db.json)
 ```
 
 ---
@@ -159,12 +167,11 @@ npm install
 ```bash
 npm start
 ```
+## 🌐 Live URLs
 
-The application will be available at:
+Frontend: https://jocular-mermaid-271f9f.netlify.app
 
-```text
-http://localhost:4200/
-```
+Backend API: https://campuscart-api-lfbh.onrender.com
 
 ---
 
@@ -179,7 +186,7 @@ http://localhost:4200/
 
 ---
 
-# 📚 Learning Outcomes
+# 📚 What I learned
 
 Through this project, I gained experience in:
 
