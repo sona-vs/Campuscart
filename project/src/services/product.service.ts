@@ -3,7 +3,14 @@ import { Product, Category, Profile } from '../types/database';
 
 /** Resolves API base URL dynamically so it works on localhost AND mobile via network IP */
 function apiBase(): string {
-  return `http://${window.location.hostname}:3001/api`;
+  if (
+    window.location.hostname === 'localhost' ||
+    window.location.hostname === '127.0.0.1'
+  ) {
+    return 'http://localhost:3001/api';
+  }
+
+  return 'https://campuscart-api-lfbh.onrender.com/api';
 }
 
 @Injectable({ providedIn: 'root' })

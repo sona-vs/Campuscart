@@ -4,7 +4,14 @@ import { Profile, AuthUser } from '../types/database';
 /** Dynamically resolves the API base so it works on both
  *  localhost (desktop) and the network IP (mobile). */
 function apiBase(): string {
-  return `http://${window.location.hostname}:3001/api`;
+  if (
+    window.location.hostname === 'localhost' ||
+    window.location.hostname === '127.0.0.1'
+  ) {
+    return 'http://localhost:3001/api';
+  }
+
+  return 'https://campuscart-api-lfbh.onrender.com/api';
 }
 
 @Injectable({ providedIn: 'root' })
